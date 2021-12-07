@@ -13,4 +13,3 @@ Steps Involved
 	Train the model for 100 epochs
 	Evaluate the model performance on the test set
 	Predict the values of the first 5 test records
-
